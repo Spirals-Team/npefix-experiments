@@ -1,6 +1,6 @@
 # NPEFix  Experiments
 
-This repository contains the raw results of the execution of (NPEFix)[https://github.com/Spirals-Team/npefix] on the dataset (NPE-dataset)[https://github.com/Spirals-Team/npe-dataset].
+This repository contains the raw results of the execution of [NPEFix](https://github.com/Spirals-Team/npefix) on the dataset [NPE-dataset](https://github.com/Spirals-Team/npe-dataset).
 
 ## Repository architecture
 ```
